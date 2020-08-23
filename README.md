@@ -15,3 +15,13 @@ Python code used to create the application is available in https://github.com/Cr
 Once you run the application, you will be asked to input the number of hours, minutes, and seconds to be measured by the timer. The image below shows what appears.
 
 ![Getting Started](https://github.com/CreativeCloudAppDev2020/PyTimer/blob/master/images/Getting%20Started.png)
+
+### Countdown
+
+After you input the number of hours, minutes, and seconds to be measured by the timer, the application will count down to zero. After that, you will be asked whether you 
+want to continue using the timer or not. Entering 'Y' will make the application send you back to inputting the number of hours, minutes, and seconds to be measured by the timer.
+Entering anything besides 'Y' will exit the application. Below shows how the application does so.
+
+![Countdown](https://github.com/CreativeCloudAppDev2020/PyTimer/blob/master/images/Countdown.png)
+
+
